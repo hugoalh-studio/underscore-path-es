@@ -1,0 +1,51 @@
+{
+	"name": "@hugoalh/underscore-path",
+	"version": "2.0.2",
+	"description": "A module to bring back `__dirname` and `__filename` within 2 lines of code.",
+	"keywords": [
+		"__dirname",
+		"__filename",
+		"dirname",
+		"filename"
+	],
+	"homepage": "https://github.com/hugoalh-studio/underscore-path-es#readme",
+	"bugs": {
+		"url": "https://github.com/hugoalh-studio/underscore-path-es/issues"
+	},
+	"license": "MIT",
+	"author": "hugoalh",
+	"files": [
+		"asset/**",
+		"bin/**",
+		"dist/**",
+		"lib/**",
+		"LICENSE*.md",
+		"package.json",
+		"README*.md"
+	],
+	"type": "module",
+	"main": "./dist/mod.js",
+	"exports": {
+		"types": "./dist/mod.d.ts",
+		"import": "./dist/mod.js"
+	},
+	"types": "./dist/mod.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hugoalh-studio/underscore-path-es.git"
+	},
+	"scripts": {
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"@types/node": "20.12.7",
+		"typescript": "^5.4.5"
+	},
+	"engines": {
+		"node": ">=16.13.0"
+	},
+	"private": false,
+	"publishConfig": {
+		"access": "public"
+	}
+}
