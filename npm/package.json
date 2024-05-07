@@ -1,6 +1,6 @@
 {
 	"name": "@hugoalh/underscore-path",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"description": "A module to bring back `__dirname` and `__filename` within 2 lines of code.",
 	"keywords": [
 		"__dirname",
@@ -37,8 +37,9 @@
 	"scripts": {
 		"build": "tsc"
 	},
+	"dependencies": { },
 	"devDependencies": {
-		"@types/node": "20.12.7",
+		"@types/node": "20.12.8",
 		"typescript": "^5.4.5"
 	},
 	"engines": {
