@@ -3,7 +3,7 @@
 [**⚖️** MIT](./LICENSE.md)
 
 [![GitHub: hugoalh-studio/underscore-path-es](https://img.shields.io/github/v/release/hugoalh-studio/underscore-path-es?label=hugoalh-studio/underscore-path-es&labelColor=181717&logo=github&logoColor=ffffff&sort=semver&style=flat "GitHub: hugoalh-studio/underscore-path-es")](https://github.com/hugoalh-studio/underscore-path-es)
-[![JSR: @hugoalh/underscore-path](https://img.shields.io/jsr/v/@hugoalh/underscore-path?label=JSR%20@hugoalh/underscore-path&labelColor=F7DF1E&logoColor=000000&style=flat "JSR: @hugoalh/underscore-path")](https://jsr.io/@hugoalh/underscore-path)
+[![JSR: @hugoalh/underscore-path](https://img.shields.io/jsr/v/@hugoalh/underscore-path?label=@hugoalh/underscore-path&labelColor=F7DF1E&logo=jsr&logoColor=000000&style=flat "JSR: @hugoalh/underscore-path")](https://jsr.io/@hugoalh/underscore-path)
 [![NPM: @hugoalh/underscore-path](https://img.shields.io/npm/v/@hugoalh/underscore-path?label=@hugoalh/underscore-path&labelColor=CB3837&logo=npm&logoColor=ffffff&style=flat "NPM: @hugoalh/underscore-path")](https://www.npmjs.com/package/@hugoalh/underscore-path)
 
 An ES (JavaScript & TypeScript) module to bring back `__dirname` and `__filename` within 2 lines of code.
